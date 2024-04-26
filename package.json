@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "dependencies": {
+    "harmonic-theme-default": "latest"
+  },
+  "scripts": {
+    "start": "harmonic run"
+  }
+}
